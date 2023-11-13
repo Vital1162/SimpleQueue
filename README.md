@@ -10,7 +10,7 @@ rabbitmq-server start
 ## Step
   1 Run  current file\
     App.java just send the message to the queue, not provide any consumers\
-    Sender.java provides message consumers to handle messages in the queue
+    Sender.java provides message consumers to handle messages in the queue\
   2 Check the message at http://localhost:15672/ 
 ## Detail
   
