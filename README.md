@@ -7,6 +7,9 @@
 rabbitmq-server start
 ```
 
-# Step
+## Step
   1 Run  current file Sender.java\
-  2 Check message at http://localhost:15672/ 
+  2 Check message at http://localhost:15672/ \
+
+### IDE 
+  IntelliJ IDEA
