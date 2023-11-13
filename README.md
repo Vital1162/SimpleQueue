@@ -6,3 +6,7 @@
 ```
 rabbitmq-server start
 ```
+
+# Step
+1 Run Sender current file
+2 Check message at http://localhost:15672/
